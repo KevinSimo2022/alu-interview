@@ -19,3 +19,5 @@ if __name__ == "__main__":
     print(minOperations(19170307))
     print(minOperations(972))
     print(minOperations(2147483640))
+
+# Add a newline character at the end of the file
